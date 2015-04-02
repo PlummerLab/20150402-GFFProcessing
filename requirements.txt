@@ -1,0 +1,12 @@
+bcbio-gff==0.6.2
+biopython==1.65
+certifi==14.5.14
+ipython==3.0.0
+Jinja2==2.7.3
+jsonschema==2.4.0
+MarkupSafe==0.23
+mistune==0.5.1
+Pygments==2.0.2
+pyzmq==14.5.0
+six==1.9.0
+tornado==4.1
