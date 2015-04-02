@@ -10,6 +10,8 @@ We were having a problem extracting ORF sequences from the GFF output of CodingQ
 This notebook converts the type of multiple 'CDS' features with the same parent to 'exon' and recodes the ID appropriately. 
 Then coding sequences of genes for each genome is extracted and saved as fasta files as nucleotide and amino acid sequences.
 
+View the Ipython notebook [here](http://htmlpreview.github.io/?https://github.com/PlummerLab/20150402-GFFProcessing/blob/master/GFFProcessing.html).
+
 ### Required software
 
 This was run with Python 3.4.1 with the following packages:
