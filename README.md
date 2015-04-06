@@ -1,4 +1,4 @@
-# 20150402-GFFProcessing
+# P20150402DJ-GFFProcessing
 ## Processing GFF output from CodingQuarry
 
 **Author**: Darcy Jones <br />
